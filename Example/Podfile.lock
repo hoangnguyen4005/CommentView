@@ -1,0 +1,16 @@
+PODS:
+  - CommentView (0.0.1)
+
+DEPENDENCIES:
+  - CommentView (from `../`)
+
+EXTERNAL SOURCES:
+  CommentView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CommentView: 26cddba2996a50b24a8e6b1af94e8599939a52d0
+
+PODFILE CHECKSUM: a18f35440c274a4bc290f08c15cc4cd223829d61
+
+COCOAPODS: 1.9.3

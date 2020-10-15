@@ -1,0 +1,6 @@
+framework module CommentView {
+  umbrella header "CommentView-umbrella.h"
+
+  export *
+  module * { export * }
+}
