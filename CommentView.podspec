@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'CommentView'
   s.version          = '0.0.1'
   s.summary          = 'CommentView is design library pod'
-  s.description      = "CommentView is a library, which allow to user typing comments inside view."
+  s.description      = "CommentView is a simple view, which the user can comment on inside view. It also set a limit entirety of characters, which was typed by users"
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hoang Nguyen' => 'hoangnguyen4005@gmail.com' }
