@@ -1,5 +1,5 @@
 # CommentView
-  - CommentView is a library, which allow to user typing comments inside view.
+  - CommentView is simple view, which user can comment inside view. It also set limit total of characters, which was typed by users.
   
 ![Simulator Screen Shot - iPhone 8 - 2020-10-15 at 10 13 21](https://user-images.githubusercontent.com/15699560/96068791-64608b80-0ecf-11eb-90d0-9eebbddd6c96.png)
 ![Simulator Screen Shot - iPhone 8 - 2020-10-15 at 10 13 28](https://user-images.githubusercontent.com/15699560/96068795-6591b880-0ecf-11eb-8e11-088e06adb30e.png)
